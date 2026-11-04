@@ -24,7 +24,7 @@ Fase 4: Consolidación de Productos (04_UCC001_Productos/): Desarrollo de entreg
 
 Fase 5: Soportes y Asistencia IA (05_UCC001_Soportes_IA/): Evidencia metodológica, desarrollo de prompts y documentación de apoyo técnico con Inteligencia Artificial.
 
-Componentes y actividades
+# Componentes y actividades
 
 Componente 1: Diagnóstico de Microdatos y Seguridad Alimentaria:
 
@@ -44,15 +44,15 @@ Diseño de la Matriz de Marco Lógico (Fin, Propósito, Componentes y Actividade
 
 Definición de indicadores de resultado e impacto nutricional a corto y mediano plazo.
 
-Responsabilidades
+# Responsabilidades
 
 Luis Felipe Moreno: Dirección general del proyecto, procesamiento de microdatos de la ECV/FIES DANE, articulación con la oferta distrital y consolidación de la estructura del Marco Lógico.
 
-Seguimiento del proyecto
+# Seguimiento del proyecto
 
 El monitoreo de tareas, estados (Pendiente, En revisión, Validado, Listo) y avances se gestiona en el tablero institucional de GitHub Projects.
 
-Insumos disponibles
+# Insumos disponibles
 
 Fichas Técnicas del Proyecto: Instrumentos de caracterización y versiones consolidadas del proyecto (v01, v02, v03).
 
@@ -62,7 +62,7 @@ Matrices Analíticas de Datos: Hojas de cálculo para la integración de indicad
 
 Archivos de Soporte Metodológico: Bitácoras de prompts y documentación técnica almacenadas en los módulos de soporte.
 
-Herramientas complementarias
+# Herramientas complementarias
 
 Procesamiento Estadístico y Analítico: Entornos de análisis para microdatos oficiales (ECV / FIES - DANE).
 
@@ -72,7 +72,7 @@ Documentación Técnica y Ofimática: Procesadores de texto para fichas instituc
 
 Inteligencia Artificial: Asistencia en la estructuración documental y generación de código de análisis.
 
-Decisiones pendientes
+# Decisiones pendientes
 
 Finalizar la validación y cierre definitivo de las matrices de datos e indicadores integrados.
 
