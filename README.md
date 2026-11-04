@@ -1,17 +1,17 @@
 # Desnutrición Infantil Uribia
 
-Estidiante: Luis Felipe Moreno
+Estudiante: Luis Felipe Moreno
 
-Problema
+# Problema
 
 La desnutrición infantil en el municipio de Uribia (La Guajira) representa una crisis estructural profunda vinculada a múltiples factores socioeconómicos, territoriales y de seguridad alimentaria. Afecta de manera crítica a la población infantil Wayúu y a las comunidades en extrema vulnerabilidad rural y urbana. La persistencia de altas tasas de morbimortalidad por causas asociadas al hambre requiere un diagnóstico riguroso, contextualizado y fundamentado en evidencia empírica para coordinar la oferta institucional de intervención.
 
-Alternativa de intervención
+# Alternativa de intervención
 
 La propuesta plantea el diseño e implementación de un modelo de intervención integral y participativo orientado a la mitigación de la desnutrición infantil en Uribia. Se fundamenta en la articulación entre el procesamiento de datos cuantitativos de escala nacional y local, la caracterización epidemiológica territorial y la estructuración metodológica mediante la metodología de Marco Lógico. La alternativa busca optimizar la focalización y entrega de apoyos en seguridad alimentaria, articular la oferta distrital/municipal y fortalecer el seguimiento nutricional en comunidad.
 
-Descripción operativa
-
+# Descripción operativa
+ 
 La ejecución del proyecto adopta una arquitectura modular organizada en el repositorio bajo las siguientes fases operativas:
 
 Fase 1: Planteamiento y Alcance (01_UCC001_Planteamiento/): Definición de objetivos, problema central y delimitación geográfica y poblacional.
